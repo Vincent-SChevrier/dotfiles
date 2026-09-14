@@ -1,0 +1,9 @@
+# ~/dotfiles/git/config
+[core]
+	editor = nvim
+[init]
+	defaultBranch = main
+[pull]
+	ff = only
+[fetch]
+	prune = true

@@ -1,0 +1,8 @@
+# ~/dotfiles/gdb/gdbinit
+set pagination off
+set confirm off
+set history save on
+set history filename ~/.cache/gdb/history
+set print pretty on
+set disassembly-next-line on
+set breakpoint pending on

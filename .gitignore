@@ -1,0 +1,5 @@
+# .gitingore
+ssh/
+secrets/
+*.pem
+*.key
